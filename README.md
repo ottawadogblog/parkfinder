@@ -1,3 +1,3 @@
-# Ottawa Park Finder Maintenance
+# Ottawa Park Finder Closed
 
-Temporary maintenance page for the Ottawa Dog Park Finder.
+Closed down page for the Ottawa Dog Park Finder.
